@@ -1,0 +1,76 @@
+body{
+    background:black url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWyB4PlmrBNWrAfj2R6kTjT2cMzV-iM15m0A&s) no-repeat center/cover;
+    width:auto;
+
+
+
+
+}
+
+
+.navbar{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:red;
+    margin-left:150px;
+    display: flex;
+    
+}
+
+.color_grey{
+    color:grey;
+
+}
+
+.text{
+    
+    color:white;
+    font-size:22px; 
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+}
+
+form input{
+    border:1px solid grey;
+    padding:17px 14px;
+    width:25vw;
+    border-radius:5px;
+    background-color: black;
+    color:grey;
+
+
+
+}
+
+.btn{
+    margin-top:15px;
+    padding: 15px 20px;
+    border:none;
+    background-color: red;
+    color:white;
+    width:27vw;
+}
+
+.drop{
+   border:none;
+   font-size:medium;
+}
+
+
+select{
+    border: none;
+    outline: none;
+    background: transparent;
+    color: white;
+    appearance: none;
+}
+
+.footer{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:grey;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size:13px
+}
